@@ -13,7 +13,8 @@ The Automatic Plant Watering System addresses these issues by providing an autom
 The Hardware designed using Proteus Software and implemented by components from below.
 
 ### Arduino UNO
-<imag src=>
+
+<img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/144319129/f8a8cc9c-4638-411c-aa7f-d812d7e7d7c2" alt="Arduino_Uno" width="200"/>
 
 - **Purpose**: To be used as the microcontroller
 
