@@ -15,19 +15,19 @@ The Hardware designed using Proteus Software and implemented by components from 
 ### Arduino UNO
 <imag src=>
 
-**Purpose**: To be used as the microcontroller
+- **Purpose**: To be used as the microcontroller
 
 ### Moisture Sensor (YL-39)
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/94af199a-b479-4f31-9556-8b296f3a98c9" alt="fOTO 1" width="200"/>
 
-**Purpose**: To measure the moisture level in the soil or growing medium.
-**Connection**: The YL-39 moisture sensor is connected to the Arduino board via digital input pins. It helps determine whether the soil is too dry or has adequate moisture, ensuring your plants get the right amount of water.
+- **Purpose**: To measure the moisture level in the soil or growing medium.
+- **Connection**: The YL-39 moisture sensor is connected to the Arduino board via digital input pins. It helps determine whether the soil is too dry or has adequate moisture, ensuring your plants get the right amount of water.
 
 ### Temperature and Humidity Sensor (DHT 11)
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/477a43ec-5058-471d-86f2-ca67ca8bf060" alt="DHT11" width="200"/>
 
-**Purpose**: To measure ambient temperature and humidity.
-**Connection**: The DHT series 11 is connected to the Arduino board through digital input/output pins. This sensor provides essential data about the surrounding environment, allowing you to adjust conditions to suit your plants' needs.
+- **Purpose**: To measure ambient temperature and humidity.
+- **Connection**: The DHT series 11 is connected to the Arduino board through digital input/output pins. This sensor provides essential data about the surrounding environment, allowing you to adjust conditions to suit your plants' needs.
 
 ### Water Pump DC
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/8a131a69-626f-4d23-8bb7-b9dd4261d8a5" alt="water" width="200"/>
@@ -65,8 +65,10 @@ The project testing is done to ensure the components and modules used for the au
 
 hxxC txx
 img
+
 dry 
 img
+
 moist
 img
 
