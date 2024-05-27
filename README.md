@@ -65,13 +65,13 @@ We use the Arduino IDE to flash the program into the arduino via USB type B cabl
 The project testing is done to ensure the components and modules used for the automatic plant watering system work properly. From the test results, we tested the system to read from the DHT11 and the dry or wet part. From the picture below, we can see that the LED is displaying the data properly. 
 
 hxxC txx
-img
+<img src="![txxhxx](https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/c2f40c07-2070-48be-990c-6c3ce3618858)" alt="Relay" width="200"/>
 
 dry 
-img
+<img src="![dry](https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/fb5c0d6d-af78-4441-8ef4-4572ab28246e)" alt="Relay" width="200"/>
 
 moist
-img
+<img src="![moist](https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/cb15a2f5-ec4c-4862-b273-3250c3009426)" alt="Relay" width="200"/>
 
 After that, when the soil moisture sensor is on a dry soil it will make the water pump work.
 img
