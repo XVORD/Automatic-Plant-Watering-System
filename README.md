@@ -64,7 +64,7 @@ We use the Arduino IDE to flash the program into the arduino via USB type B cabl
 ## IV. Test Results and Performance Evaluation
 The project testing is done to ensure the components and modules used for the automatic plant watering system work properly. From the test results, we tested the system to read from the DHT11 and the dry or wet part. From the picture below, we can see that the LED is displaying the data properly. 
 
-### hxxC txx
+### txxC hxx
 
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/c2f40c07-2070-48be-990c-6c3ce3618858" alt="txxhxx" width="200"/>
 
