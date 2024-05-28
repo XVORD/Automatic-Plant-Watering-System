@@ -18,11 +18,11 @@ The Hardware designed using Proteus Software and implemented by components from 
 
 - **Purpose**: To be used as the microcontroller
 
-### Moisture Sensor (YL-39)
+### Moisture Sensor
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/94af199a-b479-4f31-9556-8b296f3a98c9" alt="fOTO 1" width="200"/>
 
 - **Purpose**: To measure the moisture level in the soil or growing medium.
-- **Connection**: The YL-39 moisture sensor is connected to the Arduino board via digital input pins. It helps determine whether the soil is too dry or has adequate moisture, ensuring your plants get the right amount of water.
+- **Connection**: The soil moisture sensor is connected to the Arduino board via analog input pins. It helps determine whether the soil is too dry or has adequate moisture, ensuring your plants get the right amount of water.
 
 ### Temperature and Humidity Sensor (DHT 11)
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/477a43ec-5058-471d-86f2-ca67ca8bf060" alt="DHT11" width="200"/>
