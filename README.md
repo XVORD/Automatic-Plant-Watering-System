@@ -77,7 +77,9 @@ The project testing is done to ensure the components and modules used for the au
 <img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/cb15a2f5-ec4c-4862-b273-3250c3009426" alt="moist" width="200"/>
 
 After that, when the soil moisture sensor is on a dry soil it will make the water pump work.
-<img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/c2e07322-2fba-4b69-ad51-a146cc168627" alt="Menyala" width="200"/>
+<img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/95ca8f53-7bd3-49b7-a40e-225bc1624272" alt="Menyala" width="200"/>
+
+<img src="https://github.com/XVORD/Automatic-Plant-Watering-System/assets/119683308/66a3a06e-971a-4e77-88b2-0b39e6e539ea" alt="dryreal" width="200"/>
 
 From the demonstration above we can see the system work properly by correctly displaying the condition of the soil and environment.
 
